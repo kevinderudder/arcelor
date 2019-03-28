@@ -1,0 +1,14 @@
+@import '../../../scss/settings/s-colors.scss';
+
+.parking-list{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.parking-list__item{
+    margin: 10px;
+}
+

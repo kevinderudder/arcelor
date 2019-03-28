@@ -1,0 +1,46 @@
+.c-form{
+    margin: 10px;
+
+    fieldset{
+        border: 0;
+
+        legend{
+            width: 100%;
+            border-bottom: 1px solid rgba(139, 139, 139, 0.438);
+            text-transform: uppercase;
+            padding-bottom: 5px;
+        }
+    }
+
+    .c-form__group{
+        margin: 10px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .c-form__control{
+        height: 30px;
+        width: 300px;
+        padding: 0 10px 0 10px;
+    }
+
+    .c-form__button{
+        text-transform: uppercase;
+        color: white;
+        background-color: rgba(2, 69, 107, 0.733);
+        border: 1px solid  rgba(2, 69, 107, 0.733);
+        padding: 4px 10px;
+        margin-left: 10px;
+    
+        transition: all .1s ease-in-out;
+
+        &:hover{
+            background-color:  rgba(1, 48, 75, 0.925);
+            cursor: pointer;
+        }
+    
+    }
+
+
+}
+

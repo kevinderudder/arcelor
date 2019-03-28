@@ -56,5 +56,10 @@ function aboutThis(){
 function handleClick(){
     console.log(this.innerHTML);
 }
-handleClick();
-aboutThis();
+//handleClick();
+//aboutThis();
+
+
+
+function person(firstname, name){}
+//let kevin = new person("kevin", "derudder");

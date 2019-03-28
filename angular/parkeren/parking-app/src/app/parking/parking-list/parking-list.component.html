@@ -1,0 +1,41 @@
+
+<div class="parking-form c-form">
+    <fieldset>
+      <legend>
+        Add new parking
+      </legend>
+
+      <div class="c-form__group">
+        <label for="name">Name</label>
+        <input #name type="text" name="name" class="c-form__control">
+      </div>
+
+      <div class="c-form__group">
+        <label for="availableCapacity">Available Capacity</label>
+        <input #availableCapacity type="number" name="availableCapacity" class="c-form__control">
+      </div>
+
+      <div class="c-form__group">
+        <label for="totalCapacity">Total Capacity</label>
+        <input #totalCapacity type="number" name="totalCapacity" class="c-form__control">
+      </div>
+
+      <div class="c-form__actions">
+        <button class="c-form__button c-form__button--is-primary" (click)="addParking(name.value, availableCapacity.value, totalCapacity.value)">
+          <i class="fas fa-plus"></i> Add
+        </button>
+      </div>
+
+    </fieldset>
+</div>
+
+
+<input type="text" [(ngModel)]="filter" />
+<span>{{ filter }}</span>
+<div class="parking-list">
+  <div class="parking-list__item" *ngFor="let p of parkings | parkingFilter:filter">
+      <app-parking-details [parking]="p" (remove)="removeParking($event)"></app-parking-details>
+  </div>
+</div>
+
+

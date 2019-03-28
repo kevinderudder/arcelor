@@ -1,0 +1,10 @@
+<div class="parking" (click)="goToDetails()" [ngClass]="{'parking--isFull':isFull(), 'parking--isWarning': isWarning()}">
+  <span class="parking__remove__icon" (click)="removeParking()">-</span>
+  <div class="parking__icon">p</div>
+  <div class="parking__name">{{ parking.name }}</div>
+  <div class="parking__stats">
+      <span class="parking__available-capacity">{{ parking.availableCapacity }}</span>
+      <span> / </span>
+      <span class="parking__total-capacity">{{ parking.totalCapacity }}</span>
+  </div>
+</div>

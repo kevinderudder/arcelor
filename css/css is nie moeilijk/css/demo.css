@@ -1,0 +1,27 @@
+* {
+    border: 1px solid hotpink;
+}
+/*0100*/
+#firstname{
+    background-color: red;
+}
+
+/*0010*/
+.input{
+    display: block;
+    background-color: papayawhip;
+}
+
+/*0001*/
+input{
+    background-color: chocolate;
+}
+
+/*
+inline
+id
+class
+element
+
+
+*/

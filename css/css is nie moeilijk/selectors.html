@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        
+        .demo1 li{
+           
+            display: inline-block;
+            width: 50px;
+            
+            padding: 0 10px;
+            text-align: center;
+        }
+    
+        .demo1 li + li{
+            border-left: 1px solid gray;
+        }
+    
+        a[href$=".docx"], a[href$=".doc"]{
+            background-color:red;
+        }
+
+        a[href$=".docx"]:before, a[href$=".doc"]:after{
+            content: 'ik ben een nieuw element';
+            color: hotpink;
+        }
+
+        input:invalid:after{
+
+        }
+
+        li:nth-child(2n + 1){
+            background-color: lime;
+        }
+
+        .demo3 li{
+            float:left;
+        }
+
+    </style>
+</head>
+<body>
+    
+   <ul class="demo1">
+       <li>link 1</li>
+       <li>link 2</li>
+       <li>link 3</li>
+       <li>link 5</li>
+   </ul>
+   
+   <ul class="demo2">
+       <li><a href="/demo.pdf">een pdf</a></li>
+       <li><a href="/demo.xlsx">een pdf</a></li>
+       <li><a href="/demo.docx">een pdf</a></li>
+   </ul>
+
+   <ul class="demo3">
+    <li>link 1</li>
+    <li>link 2</li>
+    <li>link 3</li>
+    <li>link 5</li>
+</ul>
+
+
+</body>
+</html>

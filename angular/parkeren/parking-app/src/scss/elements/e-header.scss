@@ -1,0 +1,12 @@
+.e-header{
+    /*background-color: #065A82;*/
+    background: linear-gradient(90deg,#1B3B6F, #065A82, #1C7293);
+    color: white;
+    padding: 10px;
+
+    .e-header__title{
+        font-size: 24px;
+        font-family: 'Raleway', sans-serif;
+        text-transform: uppercase;
+    }
+}
