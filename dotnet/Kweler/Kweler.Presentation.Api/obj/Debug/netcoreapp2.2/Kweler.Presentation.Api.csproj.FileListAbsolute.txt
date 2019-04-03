@@ -1,0 +1,72 @@
+C:\Users\Kevin DeRudder\Source\Kweler.Presentation.Api\bin\Debug\netcoreapp2.2\Kweler.Presentation.Api.deps.json
+C:\Users\Kevin DeRudder\Source\Kweler.Presentation.Api\bin\Debug\netcoreapp2.2\Kweler.Presentation.Api.runtimeconfig.json
+C:\Users\Kevin DeRudder\Source\Kweler.Presentation.Api\bin\Debug\netcoreapp2.2\Kweler.Presentation.Api.runtimeconfig.dev.json
+C:\Users\Kevin DeRudder\Source\Kweler.Presentation.Api\bin\Debug\netcoreapp2.2\Kweler.Presentation.Api.dll
+C:\Users\Kevin DeRudder\Source\Kweler.Presentation.Api\bin\Debug\netcoreapp2.2\Kweler.Presentation.Api.pdb
+C:\Users\Kevin DeRudder\Source\Kweler.Presentation.Api\bin\Debug\netcoreapp2.2\Kweler.Presentation.Api.Views.dll
+C:\Users\Kevin DeRudder\Source\Kweler.Presentation.Api\bin\Debug\netcoreapp2.2\Kweler.Presentation.Api.Views.pdb
+C:\Users\Kevin DeRudder\Source\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Kweler.Presentation.Api.csprojAssemblyReference.cache
+C:\Users\Kevin DeRudder\Source\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Kweler.Presentation.Api.csproj.CoreCompileInputs.cache
+C:\Users\Kevin DeRudder\Source\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Kweler.Presentation.Api.RazorAssemblyInfo.cache
+C:\Users\Kevin DeRudder\Source\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Kweler.Presentation.Api.RazorAssemblyInfo.cs
+C:\Users\Kevin DeRudder\Source\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Kweler.Presentation.Api.AssemblyInfoInputs.cache
+C:\Users\Kevin DeRudder\Source\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Kweler.Presentation.Api.AssemblyInfo.cs
+C:\Users\Kevin DeRudder\Source\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Kweler.Presentation.Api.TagHelpers.input.cache
+C:\Users\Kevin DeRudder\Source\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Kweler.Presentation.Api.TagHelpers.output.cache
+C:\Users\Kevin DeRudder\Source\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Kweler.Presentation.Api.RazorCoreGenerate.cache
+C:\Users\Kevin DeRudder\Source\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Kevin DeRudder\Source\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Kevin DeRudder\Source\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Kevin DeRudder\Source\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Kevin DeRudder\Source\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Kevin DeRudder\Source\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Kevin DeRudder\Source\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Kevin DeRudder\Source\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Kevin DeRudder\Source\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Kweler.Presentation.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Kevin DeRudder\Source\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Kweler.Presentation.Api.RazorTargetAssemblyInfo.cs
+C:\Users\Kevin DeRudder\Source\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Kweler.Presentation.Api.Views.pdb
+C:\Users\Kevin DeRudder\Source\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Kweler.Presentation.Api.dll
+C:\Users\Kevin DeRudder\Source\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Kweler.Presentation.Api.pdb
+C:\Users\Kevin DeRudder\Source\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Kweler.Presentation.Api.csproj.CopyComplete
+C:\Users\Kevin DeRudder\Source\Kweler.Presentation.Api\bin\Debug\netcoreapp2.2\Kweler.Data.Repositories.dll
+C:\Users\Kevin DeRudder\Source\Kweler.Presentation.Api\bin\Debug\netcoreapp2.2\Kweler.Domain.Models.dll
+C:\Users\Kevin DeRudder\Source\Kweler.Presentation.Api\bin\Debug\netcoreapp2.2\Kweler.Domain.Services.dll
+C:\Users\Kevin DeRudder\Source\Kweler.Presentation.Api\bin\Debug\netcoreapp2.2\Kweler.Domain.Models.pdb
+C:\Users\Kevin DeRudder\Source\Kweler.Presentation.Api\bin\Debug\netcoreapp2.2\Kweler.Data.Repositories.pdb
+C:\Users\Kevin DeRudder\Source\Kweler.Presentation.Api\bin\Debug\netcoreapp2.2\Kweler.Domain.Services.pdb
+C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Presentation.Api\bin\Debug\netcoreapp2.2\Kweler.Presentation.Api.deps.json
+C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Presentation.Api\bin\Debug\netcoreapp2.2\Kweler.Presentation.Api.runtimeconfig.json
+C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Presentation.Api\bin\Debug\netcoreapp2.2\Kweler.Presentation.Api.runtimeconfig.dev.json
+C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Presentation.Api\bin\Debug\netcoreapp2.2\Kweler.Presentation.Api.dll
+C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Presentation.Api\bin\Debug\netcoreapp2.2\Kweler.Presentation.Api.pdb
+C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Presentation.Api\bin\Debug\netcoreapp2.2\Kweler.Presentation.Api.Views.dll
+C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Presentation.Api\bin\Debug\netcoreapp2.2\Kweler.Presentation.Api.Views.pdb
+C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Presentation.Api\bin\Debug\netcoreapp2.2\Kweler.Data.Repositories.dll
+C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Presentation.Api\bin\Debug\netcoreapp2.2\Kweler.Domain.Models.dll
+C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Presentation.Api\bin\Debug\netcoreapp2.2\Kweler.Domain.Services.dll
+C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Presentation.Api\bin\Debug\netcoreapp2.2\Kweler.Domain.Models.pdb
+C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Presentation.Api\bin\Debug\netcoreapp2.2\Kweler.Domain.Services.pdb
+C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Presentation.Api\bin\Debug\netcoreapp2.2\Kweler.Data.Repositories.pdb
+C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Kweler.Presentation.Api.csprojAssemblyReference.cache
+C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Kweler.Presentation.Api.csproj.CoreCompileInputs.cache
+C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Kweler.Presentation.Api.RazorAssemblyInfo.cache
+C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Kweler.Presentation.Api.RazorAssemblyInfo.cs
+C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Kweler.Presentation.Api.AssemblyInfoInputs.cache
+C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Kweler.Presentation.Api.AssemblyInfo.cs
+C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Kweler.Presentation.Api.TagHelpers.input.cache
+C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Kweler.Presentation.Api.TagHelpers.output.cache
+C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Kweler.Presentation.Api.RazorCoreGenerate.cache
+C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Kweler.Presentation.Api.RazorTargetAssemblyInfo.cache
+C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Kweler.Presentation.Api.RazorTargetAssemblyInfo.cs
+C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Kweler.Presentation.Api.Views.pdb
+C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Kweler.Presentation.Api.csproj.CopyComplete
+C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Kweler.Presentation.Api.dll
+C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Kweler.Presentation.Api.pdb

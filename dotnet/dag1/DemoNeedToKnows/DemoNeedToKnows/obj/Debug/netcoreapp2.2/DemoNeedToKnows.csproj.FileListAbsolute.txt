@@ -1,0 +1,11 @@
+C:\Dev\Github\arcelor\dotnet\dag1\DemoNeedToKnows\DemoNeedToKnows\bin\Debug\netcoreapp2.2\DemoNeedToKnows.deps.json
+C:\Dev\Github\arcelor\dotnet\dag1\DemoNeedToKnows\DemoNeedToKnows\bin\Debug\netcoreapp2.2\DemoNeedToKnows.runtimeconfig.json
+C:\Dev\Github\arcelor\dotnet\dag1\DemoNeedToKnows\DemoNeedToKnows\bin\Debug\netcoreapp2.2\DemoNeedToKnows.runtimeconfig.dev.json
+C:\Dev\Github\arcelor\dotnet\dag1\DemoNeedToKnows\DemoNeedToKnows\bin\Debug\netcoreapp2.2\DemoNeedToKnows.dll
+C:\Dev\Github\arcelor\dotnet\dag1\DemoNeedToKnows\DemoNeedToKnows\bin\Debug\netcoreapp2.2\DemoNeedToKnows.pdb
+C:\Dev\Github\arcelor\dotnet\dag1\DemoNeedToKnows\DemoNeedToKnows\obj\Debug\netcoreapp2.2\DemoNeedToKnows.csprojAssemblyReference.cache
+C:\Dev\Github\arcelor\dotnet\dag1\DemoNeedToKnows\DemoNeedToKnows\obj\Debug\netcoreapp2.2\DemoNeedToKnows.csproj.CoreCompileInputs.cache
+C:\Dev\Github\arcelor\dotnet\dag1\DemoNeedToKnows\DemoNeedToKnows\obj\Debug\netcoreapp2.2\DemoNeedToKnows.AssemblyInfoInputs.cache
+C:\Dev\Github\arcelor\dotnet\dag1\DemoNeedToKnows\DemoNeedToKnows\obj\Debug\netcoreapp2.2\DemoNeedToKnows.AssemblyInfo.cs
+C:\Dev\Github\arcelor\dotnet\dag1\DemoNeedToKnows\DemoNeedToKnows\obj\Debug\netcoreapp2.2\DemoNeedToKnows.dll
+C:\Dev\Github\arcelor\dotnet\dag1\DemoNeedToKnows\DemoNeedToKnows\obj\Debug\netcoreapp2.2\DemoNeedToKnows.pdb
