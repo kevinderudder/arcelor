@@ -8,8 +8,10 @@ namespace DemoNeedToKnows
     {
         static void Main(string[] args)
         {
-            demo2();
+            //demo2();
 
+            "kevin".ToJson();
+           
         }
 
         private static void demo2() {
@@ -39,14 +41,18 @@ namespace DemoNeedToKnows
         }
     }
 
-    static class StringExtensions {
-        public static string ToXml(this string value, string tagnaam) {
-            //return "<" + tagnaam + ">" + value + "</" + tagnaam + ">";
-            return $"<{tagnaam}>{value}</{tagnaam}>";
+    //static class StringExtensions {
+    //    public static string ToXml(this string value, string tagnaam) {
+    //        //return "<" + tagnaam + ">" + value + "</" + tagnaam + ">";
+    //        return $"<{tagnaam}>{value}</{tagnaam}>";
+    //    }
+    //}
+
+    public static class StringExtensions {
+        public static string ToJson(this string value) {
+            return $"{{name: {value}}}";
         }
     }
-
-    
 
 
 }

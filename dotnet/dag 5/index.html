@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <input type="text" placeholder="value..." id="theValue" />
+    <button id="theButton">Click me</button>
+    <button id="theGetButton">Get me</button>
+
+    <script>
+        
+        var tokenInfo = {
+            username: "kevin",
+            token: "bearer SGJKLMIUTROILKJKH"
+        };
+
+        let button = document.getElementById("theButton");
+        let getButton = document.getElementById("theGetButton");
+        let input  = document.getElementById("theValue");
+
+        button.addEventListener("click", saveToStorage);
+        button.addEventListener("click", getFromStorage);
+
+        function getFromStorage(){
+            if(sessionStorage.getItem("token")){
+                let value = JSON.parse(sessionStorage.getItem("token")).token;
+                console.log(value);
+            }
+        }
+
+        function saveToStorage(){
+
+            let currentValue = input.value;
+            //alert(currentValue);
+            tokenInfo.token = currentValue;
+            sessionStorage.setItem("token", JSON.stringify(tokenInfo));
+
+        }
+    
+    </script>
+
+</body>
+</html>
