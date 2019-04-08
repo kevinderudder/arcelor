@@ -1,0 +1,7 @@
+C:\Dev\Github\arcelor\dotnet\LINQDemo\bin\Debug\LINQDemo.exe.config
+C:\Dev\Github\arcelor\dotnet\LINQDemo\bin\Debug\LINQDemo.exe
+C:\Dev\Github\arcelor\dotnet\LINQDemo\bin\Debug\LINQDemo.pdb
+C:\Dev\Github\arcelor\dotnet\LINQDemo\obj\Debug\LINQDemo.csprojAssemblyReference.cache
+C:\Dev\Github\arcelor\dotnet\LINQDemo\obj\Debug\LINQDemo.csproj.CoreCompileInputs.cache
+C:\Dev\Github\arcelor\dotnet\LINQDemo\obj\Debug\LINQDemo.exe
+C:\Dev\Github\arcelor\dotnet\LINQDemo\obj\Debug\LINQDemo.pdb

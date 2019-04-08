@@ -8,6 +8,7 @@ namespace Kweler.Domain.Models.Songs
 {
     public class Song:IEntity
     {
+        [Key]
         public Guid Id { get; set; }
 
         [Required]
@@ -15,9 +16,9 @@ namespace Kweler.Domain.Models.Songs
         public string Title { get; set; }
         //public Artist Artist { get; set; }
 
-        public IEnumerable<Artist> Artists { get; set; }
+        public virtual IEnumerable<Artist> Artists { get; set; }
 
-        public DateTime CreatedDate { get; set; }
+        public DateTime? CreatedDate { get; set; }
         public string Lyrics { get; set; }
         public bool IsDeleted { get; set; } = false;
     }

@@ -15,6 +15,7 @@
 
 
   <ItemGroup>
+    <ProjectReference Include="..\Kweler.Data\Kweler.Data.csproj" />
     <ProjectReference Include="..\Kweler.Domain.Models\Kweler.Domain.Models.csproj" />
     <ProjectReference Include="..\Kweler.Domain.Services\Kweler.Domain.Services.csproj" />
   </ItemGroup>

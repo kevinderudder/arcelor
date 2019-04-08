@@ -70,3 +70,5 @@ C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Presentation.Api\obj\Debug\netcoreapp
 C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Kweler.Presentation.Api.csproj.CopyComplete
 C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Kweler.Presentation.Api.dll
 C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Presentation.Api\obj\Debug\netcoreapp2.2\Kweler.Presentation.Api.pdb
+C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Presentation.Api\bin\Debug\netcoreapp2.2\Kweler.Data.dll
+C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Presentation.Api\bin\Debug\netcoreapp2.2\Kweler.Data.pdb
