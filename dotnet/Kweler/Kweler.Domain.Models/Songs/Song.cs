@@ -16,7 +16,8 @@ namespace Kweler.Domain.Models.Songs
         public string Title { get; set; }
         //public Artist Artist { get; set; }
 
-        public virtual IEnumerable<Artist> Artists { get; set; }
+        public Guid SongArtistId { get; set; }
+        public virtual IEnumerable<SongArtist> SongArtists { get; set; }
 
         public DateTime? CreatedDate { get; set; }
         public string Lyrics { get; set; }

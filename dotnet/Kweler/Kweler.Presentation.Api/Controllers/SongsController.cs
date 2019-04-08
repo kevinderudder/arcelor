@@ -34,7 +34,7 @@ namespace Kweler.Presentation.Api.Controllers
                 newSM.Id = s.Id;
                 newSM.Title = s.Title;
                 newSM.Lyrics = s.Lyrics;
-                newSM.Artists = s.Artists;
+                //newSM.Artists = s.Artists;
                 newSM.CreatedDate = s.CreatedDate.HasValue?s.CreatedDate.Value:DateTime.Now;
 
                 songsViewModels.Songs.Add(newSM);

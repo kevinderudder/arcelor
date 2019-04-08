@@ -18,6 +18,7 @@ namespace Kweler.Data
             base.OnConfiguring(optionsBuilder);
         }
 
+        public DbSet<SongArtist> SongArtists { get; set; }
         public DbSet<Artist> Artists { get; set; }
         public DbSet<Song> Songs { get; set; }
     }

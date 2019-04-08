@@ -30,19 +30,19 @@ namespace Kweler.Data.Repositories.Songs
             a.ImageUrl = "https://en.wikipedia.org/wiki/File:Nick_Drake_(1971).png";
 
             var s1 = new Song();
-            s1.Artists = new List<Artist>() { a, b};
+            //s1.Artists = new List<Artist>() { a, b};
             s1.Id = Guid.NewGuid();
             s1.Title = "Mean Monsoon";
             s1.CreatedDate = DateTime.Now.AddYears(-4);
 
             var s2 = new Song();
-            s2.Artists = new List<Artist>() { a };
+            //s2.Artists = new List<Artist>() { a };
             s2.Id = Guid.NewGuid();
             s2.Title = "Going home";
             s2.CreatedDate = DateTime.Now.AddYears(-4);
 
             var s3 = new Song();
-            s3.Artists = new List<Artist>() { b };
+            //s3.Artists = new List<Artist>() { b };
             s3.Id = Guid.NewGuid();
             s3.Title = "Whispered words";
             s3.CreatedDate = DateTime.Now.AddYears(-4);
