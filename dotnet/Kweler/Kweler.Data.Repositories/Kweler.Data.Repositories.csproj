@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Kweler.Data\Kweler.Data.csproj" />
     <ProjectReference Include="..\Kweler.Domain.Models\Kweler.Domain.Models.csproj" />
   </ItemGroup>
 
