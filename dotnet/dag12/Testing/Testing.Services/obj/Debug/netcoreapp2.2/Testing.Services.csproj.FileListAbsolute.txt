@@ -1,0 +1,9 @@
+C:\Dev\Github\arcelor\dotnet\dag12\Testing\Testing.Services\bin\Debug\netcoreapp2.2\Testing.Services.deps.json
+C:\Dev\Github\arcelor\dotnet\dag12\Testing\Testing.Services\bin\Debug\netcoreapp2.2\Testing.Services.dll
+C:\Dev\Github\arcelor\dotnet\dag12\Testing\Testing.Services\bin\Debug\netcoreapp2.2\Testing.Services.pdb
+C:\Dev\Github\arcelor\dotnet\dag12\Testing\Testing.Services\obj\Debug\netcoreapp2.2\Testing.Services.csprojAssemblyReference.cache
+C:\Dev\Github\arcelor\dotnet\dag12\Testing\Testing.Services\obj\Debug\netcoreapp2.2\Testing.Services.csproj.CoreCompileInputs.cache
+C:\Dev\Github\arcelor\dotnet\dag12\Testing\Testing.Services\obj\Debug\netcoreapp2.2\Testing.Services.AssemblyInfoInputs.cache
+C:\Dev\Github\arcelor\dotnet\dag12\Testing\Testing.Services\obj\Debug\netcoreapp2.2\Testing.Services.AssemblyInfo.cs
+C:\Dev\Github\arcelor\dotnet\dag12\Testing\Testing.Services\obj\Debug\netcoreapp2.2\Testing.Services.dll
+C:\Dev\Github\arcelor\dotnet\dag12\Testing\Testing.Services\obj\Debug\netcoreapp2.2\Testing.Services.pdb

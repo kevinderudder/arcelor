@@ -1,0 +1,17 @@
+C:\Dev\Github\arcelor\dotnet\dag12\Testing\Testing.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Dev\Github\arcelor\dotnet\dag12\Testing\Testing.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Dev\Github\arcelor\dotnet\dag12\Testing\Testing.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Dev\Github\arcelor\dotnet\dag12\Testing\Testing.Tests\bin\Debug\netcoreapp2.2\Testing.Tests.deps.json
+C:\Dev\Github\arcelor\dotnet\dag12\Testing\Testing.Tests\bin\Debug\netcoreapp2.2\Testing.Tests.runtimeconfig.json
+C:\Dev\Github\arcelor\dotnet\dag12\Testing\Testing.Tests\bin\Debug\netcoreapp2.2\Testing.Tests.runtimeconfig.dev.json
+C:\Dev\Github\arcelor\dotnet\dag12\Testing\Testing.Tests\bin\Debug\netcoreapp2.2\Testing.Tests.dll
+C:\Dev\Github\arcelor\dotnet\dag12\Testing\Testing.Tests\bin\Debug\netcoreapp2.2\Testing.Tests.pdb
+C:\Dev\Github\arcelor\dotnet\dag12\Testing\Testing.Tests\bin\Debug\netcoreapp2.2\Testing.Services.dll
+C:\Dev\Github\arcelor\dotnet\dag12\Testing\Testing.Tests\bin\Debug\netcoreapp2.2\Testing.Services.pdb
+C:\Dev\Github\arcelor\dotnet\dag12\Testing\Testing.Tests\obj\Debug\netcoreapp2.2\Testing.Tests.csprojAssemblyReference.cache
+C:\Dev\Github\arcelor\dotnet\dag12\Testing\Testing.Tests\obj\Debug\netcoreapp2.2\Testing.Tests.csproj.CoreCompileInputs.cache
+C:\Dev\Github\arcelor\dotnet\dag12\Testing\Testing.Tests\obj\Debug\netcoreapp2.2\Testing.Tests.AssemblyInfoInputs.cache
+C:\Dev\Github\arcelor\dotnet\dag12\Testing\Testing.Tests\obj\Debug\netcoreapp2.2\Testing.Tests.AssemblyInfo.cs
+C:\Dev\Github\arcelor\dotnet\dag12\Testing\Testing.Tests\obj\Debug\netcoreapp2.2\Testing.Tests.csproj.CopyComplete
+C:\Dev\Github\arcelor\dotnet\dag12\Testing\Testing.Tests\obj\Debug\netcoreapp2.2\Testing.Tests.dll
+C:\Dev\Github\arcelor\dotnet\dag12\Testing\Testing.Tests\obj\Debug\netcoreapp2.2\Testing.Tests.pdb
