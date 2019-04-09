@@ -9,6 +9,11 @@ namespace Kweler.Data.Repositories.Songs
     {
         private Context _ctx;
 
+        public SongsRepository()
+        {
+
+        }
+
         public SongsRepository(Context ctx)
         {
             this._ctx = ctx;

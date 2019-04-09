@@ -30,19 +30,19 @@ namespace Kweler.Presentation.Api
             services.AddDbContext<Context>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
-            services.Configure<CookiePolicyOptions>(options =>
-            {
-                // This lambda determines whether user consent for non-essential cookies is needed for a given request.
-                options.CheckConsentNeeded = context => true;
-                options.MinimumSameSitePolicy = SameSiteMode.None;
-            });
+            //services.Configure<CookiePolicyOptions>(options =>
+            //{
+            //    // This lambda determines whether user consent for non-essential cookies is needed for a given request.
+            //    options.CheckConsentNeeded = context => true;
+            //    options.MinimumSameSitePolicy = SameSiteMode.None;
+            //});
 
 
             services.Configure<ArcelorSettings>(Configuration.GetSection("ArcelorApp"));
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             services.ConfigureCors();
             services.RegisterServices();
-            services.ConfigureAuthentication(this.Configuration);
+            //services.ConfigureAuthentication(this.Configuration);
 
 
 
@@ -51,12 +51,12 @@ namespace Kweler.Presentation.Api
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
-            app.UseAuthentication();
+            //app.UseAuthentication();
             app.UseCors("CorsPolicy");
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
-                app.UseCookiePolicy();
+               // app.UseCookiePolicy();
             }
             else
             {
@@ -67,7 +67,7 @@ namespace Kweler.Presentation.Api
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();
-            app.UseCookiePolicy();
+            //app.UseCookiePolicy();
            
             app.UseMvc(routes =>
             {

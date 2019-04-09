@@ -14,3 +14,4 @@ C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Domain.Models\obj\Debug\netcoreapp2.2
 C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Domain.Models\obj\Debug\netcoreapp2.2\Kweler.Domain.Models.AssemblyInfo.cs
 C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Domain.Models\obj\Debug\netcoreapp2.2\Kweler.Domain.Models.dll
 C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Domain.Models\obj\Debug\netcoreapp2.2\Kweler.Domain.Models.pdb
+C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Domain.Models\obj\Debug\netcoreapp2.2\Kweler.Domain.Models.csprojAssemblyReference.cache

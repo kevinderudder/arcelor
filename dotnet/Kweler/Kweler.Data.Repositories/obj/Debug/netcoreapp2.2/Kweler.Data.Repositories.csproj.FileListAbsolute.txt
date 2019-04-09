@@ -13,7 +13,9 @@ C:\Users\Kevin DeRudder\Source\Repos\Kweler.Data.Repositories\obj\Debug\netcorea
 C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Data.Repositories\bin\Debug\netcoreapp2.2\Kweler.Data.Repositories.deps.json
 C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Data.Repositories\bin\Debug\netcoreapp2.2\Kweler.Data.Repositories.dll
 C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Data.Repositories\bin\Debug\netcoreapp2.2\Kweler.Data.Repositories.pdb
+C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Data.Repositories\bin\Debug\netcoreapp2.2\Kweler.Data.dll
 C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Data.Repositories\bin\Debug\netcoreapp2.2\Kweler.Domain.Models.dll
+C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Data.Repositories\bin\Debug\netcoreapp2.2\Kweler.Data.pdb
 C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Data.Repositories\bin\Debug\netcoreapp2.2\Kweler.Domain.Models.pdb
 C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Data.Repositories\obj\Debug\netcoreapp2.2\Kweler.Data.Repositories.csprojAssemblyReference.cache
 C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Data.Repositories\obj\Debug\netcoreapp2.2\Kweler.Data.Repositories.csproj.CoreCompileInputs.cache

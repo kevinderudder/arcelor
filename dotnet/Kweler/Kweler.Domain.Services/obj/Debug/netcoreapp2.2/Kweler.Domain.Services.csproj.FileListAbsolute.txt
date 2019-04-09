@@ -15,10 +15,12 @@ C:\Users\Kevin DeRudder\Source\Repos\Kweler.Domain.Services\obj\Debug\netcoreapp
 C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Domain.Services\bin\Debug\netcoreapp2.2\Kweler.Domain.Services.deps.json
 C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Domain.Services\bin\Debug\netcoreapp2.2\Kweler.Domain.Services.dll
 C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Domain.Services\bin\Debug\netcoreapp2.2\Kweler.Domain.Services.pdb
+C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Domain.Services\bin\Debug\netcoreapp2.2\Kweler.Data.dll
 C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Domain.Services\bin\Debug\netcoreapp2.2\Kweler.Data.Repositories.dll
 C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Domain.Services\bin\Debug\netcoreapp2.2\Kweler.Domain.Models.dll
 C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Domain.Services\bin\Debug\netcoreapp2.2\Kweler.Data.Repositories.pdb
 C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Domain.Services\bin\Debug\netcoreapp2.2\Kweler.Domain.Models.pdb
+C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Domain.Services\bin\Debug\netcoreapp2.2\Kweler.Data.pdb
 C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Domain.Services\obj\Debug\netcoreapp2.2\Kweler.Domain.Services.csprojAssemblyReference.cache
 C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Domain.Services\obj\Debug\netcoreapp2.2\Kweler.Domain.Services.csproj.CoreCompileInputs.cache
 C:\Dev\Github\arcelor\dotnet\Kweler\Kweler.Domain.Services\obj\Debug\netcoreapp2.2\Kweler.Domain.Services.AssemblyInfoInputs.cache

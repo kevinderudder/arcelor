@@ -19,7 +19,11 @@ namespace Kweler.Domain.Services.Songs
         public IEnumerable<Song> GetAll()
         {
             //var repo = new SongsRepository();
-            return _songsRepository.GetAll();
+            return this._songsRepository.GetAll();
+        }
+
+        public Song Add(Song item) {
+            return this._songsRepository.Add(item);
         }
     }
 }

@@ -8,5 +8,6 @@ namespace Kweler.Domain.Services.Songs
     public interface ISongsService
     {
         IEnumerable<Song> GetAll();
+        Song Add(Song item);
     }
 }

@@ -53,8 +53,12 @@ namespace Kweler.Presentation.Api.Controllers
 
         [HttpPost]
         public IActionResult Post([FromBody]Song song) {
-            return Ok(song);
+            if (!ModelState.IsValid) return BadRequest();
+            var newSong = _songsService.Add(song);
+            return CreatedAtAction("GET", newSong);
         }
+
+       
         
     }
 }
